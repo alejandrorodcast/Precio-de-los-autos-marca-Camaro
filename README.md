@@ -11,10 +11,5 @@ Descripción de variables:
 - Precio de venta: precio de venta del auto en dólares.
 - Antigüedad: antigüedad del auto en años.
 - Millaje: millaje del auto en miles de millas.
-- Condición: condiciones de entrega del auto.
-- Mala
-- Promedio
-- Excelente
-● Vendedor: vendedor del auto
-- Propietario
-- Intermediario
+- Condición: condiciones de entrega del auto (mala, promedio o excelente).
+- Vendedor: vendedor del auto (propietario o intermediario).
