@@ -1,6 +1,6 @@
 # Precio-de-los-autos-marca-Camaro
 
-**Objetivo del proyecto:** aplicar los métodos y procedimientos de la estadística descriptiva para recopilar, clasificar y analizar datos mediante un reporte reporte estadístico.
+**Objetivo del proyecto:** aplicar los métodos y procedimientos de la estadística descriptiva para recopilar, clasificar y analizar datos mediante un reporte estadístico.
 
 **Herramientas:** Microsoft Excel.
 
