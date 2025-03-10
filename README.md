@@ -4,6 +4,8 @@
 procesos de orden, análisis, graficación, 
 interpretación y exposición de datos para generar un reporte estadístico.
 
+**Herramientas:** Microsoft Excel.
+
 **Contexto:** Se investiga el comportamiento en el mercado del precio de venta de la marca Camaro en 31 automóviles como muestra, tomando en cuenta variables como antigüedad, millaje, condición y vendedor.
 
 - Cantidad de observaciones: 31 vehículos.
