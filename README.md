@@ -13,3 +13,5 @@ Descripción de variables:
 - Millaje: millaje del auto en miles de millas.
 - Condición: condiciones de entrega del auto (mala, promedio o excelente).
 - Vendedor: vendedor del auto (propietario o intermediario).
+
+<img src="img/camaro.png">
